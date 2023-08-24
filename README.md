@@ -1,2 +1,2 @@
 # mygitaliases
-My usefule git aliases
+My useful git aliases
